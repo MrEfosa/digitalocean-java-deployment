@@ -74,6 +74,19 @@ The project reflects a typical backend / DevOps workflow used in production envi
 - Implement CI/CD using GitHub Actions
 
 ---
+## Screenshots
+
+### User Crestion on Server
+![Create-User](screenshots/user-creation.png)
+
+### Java Installation
+![Install Java](screenshots/java-installation.png)
+
+### Build App
+![Gradle Build](screenshots/gradle-build.png)
+
+### Run App on Server
+![Run App](screenshots/java-running.png)
 
 ## Author
 **ONYEKAOZURU TOCHUKWU DAVID**  
